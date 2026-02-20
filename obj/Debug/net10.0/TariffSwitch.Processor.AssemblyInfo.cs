@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TariffSwitch.Processor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5609e1ad2dddfff5fe2e34001134d099b1ef675d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TariffSwitch.Processor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TariffSwitch.Processor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
