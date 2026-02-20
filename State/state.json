@@ -1,0 +1,25 @@
+{
+  "ProcessedRequestIds": [
+    "R1001",
+    "R1002",
+    "R1003",
+    "R1004",
+    "R1005",
+    "R1006",
+    "R1090"
+  ],
+  "FollowUps": [
+    {
+      "RequestId": "R1003",
+      "CustomerId": "C003",
+      "Action": "Schedule meter upgrade",
+      "DueAt": "2025-10-28T14:30:00+01:00"
+    },
+    {
+      "RequestId": "R1004",
+      "CustomerId": "C004",
+      "Action": "Schedule meter upgrade",
+      "DueAt": "2025-06-16T23:20:00+02:00"
+    }
+  ]
+}

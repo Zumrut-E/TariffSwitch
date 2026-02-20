@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEh0I/ADTv8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ekinc\\TariffSwitch.Processor\\TariffSwitch.Processor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekinc\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
